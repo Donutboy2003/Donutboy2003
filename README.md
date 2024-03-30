@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Engineering Student @ University of Alberta</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlzdWR4cXBqNWhhYTRhbDRzeDNmMnI1NnN0ZDRvd2UxOGk1am52aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif">
 
-- 📫 How to reach me **abdul4@ualberta.ca**
+- Reach me at: 📫 **abdul4@ualberta.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
